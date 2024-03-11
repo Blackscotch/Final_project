@@ -1,0 +1,16 @@
+D:\UP\UP_manager\bin\Debug\UP_manager.exe.config
+D:\UP\UP_manager\bin\Debug\UP_manager.exe
+D:\UP\UP_manager\bin\Debug\UP_manager.pdb
+D:\UP\UP_manager\obj\Debug\UP_manager.csproj.AssemblyReference.cache
+D:\UP\UP_manager\obj\Debug\UP_manager.Properties.Resources.resources
+D:\UP\UP_manager\obj\Debug\UP_manager.csproj.GenerateResource.cache
+D:\UP\UP_manager\obj\Debug\UP_manager.csproj.CoreCompileInputs.cache
+D:\UP\UP_manager\obj\Debug\UP_manager.exe
+D:\UP\UP_manager\obj\Debug\UP_manager.pdb
+D:\UP\UP_manager\obj\Debug\UP_manager.ubAddForm.resources
+D:\UP\UP_manager\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\UP\UP_manager\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\UP\UP_manager\obj\Debug\UP_manager.csproj.Up2Date
+D:\UP\UP_manager\obj\Debug\UP_manager.MainForm.resources
+D:\UP\UP_manager\obj\Debug\UP_manager.pfrMassRegForm.resources
+D:\UP\UP_manager\obj\Debug\UP_manager.csproj.ResolveComReference.cache
